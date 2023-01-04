@@ -131,3 +131,17 @@ html {
 .the-most img {
   max-width: 100%;
 }
+
+.container {
+  max-width: 650px;
+}
+
+.content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 150px;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
